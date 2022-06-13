@@ -9,9 +9,9 @@ let taxableAmount = 25
 
     console.log( grossSalary-taxableAmount)
 
-let basictax = 0/100
+let basicTax = 0/100
 let tax80 = 80
-let taxUnder80 = (basictax*tax80)
+let taxUnder80 = (basicTax*tax80)
 
    console.log(taxUnder80)
 
